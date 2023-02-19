@@ -1,0 +1,6 @@
+rootProject.name = 'BlueHarvestAssignment'
+
+include 'eureka-naming'
+include 'account'
+include 'transaction'
+include 'ui'
