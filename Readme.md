@@ -25,4 +25,4 @@
   
 ### frontend Side  
 
-A very simple user interface is developed to allow testing easier. Inside the project directory, open index.html in the browser.   
+A very simple user interface. Inside the project directory, open index.html in the browser.   

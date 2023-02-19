@@ -13,7 +13,6 @@
             <option value="$PROJECT_DIR$/account" />
             <option value="$PROJECT_DIR$/eureka-naming" />
             <option value="$PROJECT_DIR$/transaction" />
-            <option value="$PROJECT_DIR$/ui" />
           </set>
         </option>
       </GradleProjectSettings>
